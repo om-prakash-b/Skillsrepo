@@ -1,2 +1,2 @@
 # Skillsrepo
-I collection of skills for my personel AI use
+A collection of skills for my personal AI use
